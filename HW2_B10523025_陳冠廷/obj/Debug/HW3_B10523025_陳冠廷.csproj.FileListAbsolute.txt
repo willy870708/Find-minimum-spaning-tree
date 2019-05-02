@@ -1,0 +1,10 @@
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\bin\Debug\HW3_B10523025_陳冠廷.exe.config
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\bin\Debug\HW3_B10523025_陳冠廷.exe
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\bin\Debug\HW3_B10523025_陳冠廷.pdb
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\obj\Debug\HW3_B10523025_陳冠廷.csprojAssemblyReference.cache
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\obj\Debug\HW3_B10523025_陳冠廷.Form1.resources
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\obj\Debug\HW3_B10523025_陳冠廷.Properties.Resources.resources
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\obj\Debug\HW3_B10523025_陳冠廷.csproj.GenerateResource.cache
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\obj\Debug\HW3_B10523025_陳冠廷.csproj.CoreCompileInputs.cache
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\obj\Debug\HW3_B10523025_陳冠廷.exe
+C:\Users\B1052\OneDrive\Desktop\演算法\HW3_B10523025_陳冠廷\HW2_B10523025_陳冠廷\obj\Debug\HW3_B10523025_陳冠廷.pdb
